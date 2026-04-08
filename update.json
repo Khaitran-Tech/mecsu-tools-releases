@@ -1,0 +1,8 @@
+{
+  "latest_version": "2.0.0",
+  "download_url": "https://github.com/Khaitran-Tech/mecsu-tools-releases/releases/download/v2.0.0/MECSU_Tools_Setup_2.0.0.exe",
+  "sha256": "",
+  "release_notes": "Thêm tool Chuyển đổi định dạng file. Sửa lỗi hover cards.",
+  "min_version": "1.0.0",
+  "channel": "stable"
+}
